@@ -1,0 +1,5 @@
+*Homework.ipynb
+.env
+.cursor/
+__pycache__/
+
