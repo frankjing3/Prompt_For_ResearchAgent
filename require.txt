@@ -1,0 +1,7 @@
+pip install --user langchain
+pip install langchain-core
+pip install langchain_community
+pip install --upgrade langchain pydantic
+pip install -U langchain-ollama
+pip show langchain
+pip install --upgrade langchain
